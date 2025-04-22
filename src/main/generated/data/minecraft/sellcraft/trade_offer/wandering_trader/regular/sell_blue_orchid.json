@@ -1,0 +1,21 @@
+{
+  "experience": 0,
+  "item_listing": {
+    "type": "sellcraft:item",
+    "buying_primary": {
+      "count": 1,
+      "id": "minecraft:emerald"
+    },
+    "selling": {
+      "count": 1,
+      "id": "minecraft:blue_orchid"
+    }
+  },
+  "max_uses": 8,
+  "price_multiplier": 0.0,
+  "trader_predicate": {
+    "type": "wandering_trader",
+    "special": false
+  },
+  "weight": 1
+}

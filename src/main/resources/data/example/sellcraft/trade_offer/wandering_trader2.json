@@ -1,0 +1,21 @@
+{
+  "trader_predicate": {
+    "type": "wandering_trader",
+    "special": true
+  },
+  "item_listing": {
+    "type": "sellcraft:item",
+    "buying_primary": {
+      "id": "minecraft:diamond"
+    },
+    "selling": {
+      "id": "minecraft:dirt",
+      "components": {
+        "minecraft:enchantments": {
+          "minecraft:sharpness": 5
+        }
+      }
+    }
+  },
+  "max_uses": 69
+}

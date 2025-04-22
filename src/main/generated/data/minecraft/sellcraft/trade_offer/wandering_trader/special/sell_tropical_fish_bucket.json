@@ -1,0 +1,21 @@
+{
+  "experience": 0,
+  "item_listing": {
+    "type": "sellcraft:item",
+    "buying_primary": {
+      "count": 5,
+      "id": "minecraft:emerald"
+    },
+    "selling": {
+      "count": 1,
+      "id": "minecraft:tropical_fish_bucket"
+    }
+  },
+  "max_uses": 4,
+  "price_multiplier": 0.0,
+  "trader_predicate": {
+    "type": "wandering_trader",
+    "special": true
+  },
+  "weight": 1
+}
